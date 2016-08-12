@@ -11,6 +11,11 @@ The master branch contains the source code for MyBB 1.6. The development and sup
 
 The feature branch contains the source code for MyBB 1.8. It contains the latest bug fixes for the 1.8 series and, while you're free to use the code on your own forum to fix specific issues, support may not be provided on MyBB.com until an official release.
 
+### This Fork
+
+This fork will replace the md5 hashing algorithm for some "better" algorithms.
+This will be done soon, but for now, it's just plain MyBB as you know it.
+
 ### Contribute
 
 Please see: http://community.mybb.com/announcement-25.html for information on how to contribute to either MyBB 1.8 or MyBB 2.0.
